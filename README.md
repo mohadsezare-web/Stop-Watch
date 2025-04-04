@@ -1,6 +1,6 @@
 # Stop Watch
 
-![Image](https://github.com/user-attachments/assets/31e972bf-352d-4104-b19c-520a858c373f)
+![view final]![Image](https://github.com/user-attachments/assets/31e972bf-352d-4104-b19c-520a858c373f)
 
 - [Demo Project](https://mohadsezare-web.github.io/Stop-Watch/)
 
